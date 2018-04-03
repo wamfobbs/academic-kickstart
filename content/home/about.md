@@ -10,31 +10,25 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
+    "Behavioral Neuroscience",
+    "Systems Neuroscience",
+    "Psychology"
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
+  course = "PhD in Neuroscience"
+  institution = "University of Washington"
+  year = 2016
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
-
-[[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
- 
+  course = "BS in Molecular, Cellular, and Developmental Biology with Neurobiology concentration"
+  institution = "Yale University"
+  year = 2011
 +++
 
 # Biography
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Wambura Fobbs is a Postdoctoral Fellow at National Institute of Diabetes and Digestive and Kidney Diseases (NIDDK) who is very interested in the neural and psychological basis of motivated behaviors, including reward-based learning, decision making, timing, addiction, and feeding. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+I am also very fond of science teaching, advocacy, and outreach and am committed to implementing evidence-based active learning practices in the classroom.
