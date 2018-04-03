@@ -22,7 +22,7 @@ weight = 5
   year = 2016
 
 [[education.courses]]
-  course = "BS in Molecular, Cellular, and Developmental Biology with Neurobiology concentration"
+  course = "BS in Molecular, Cellular, and Developmental Biology-Neurobiology Track"
   institution = "Yale University"
   year = 2011
 +++
