@@ -31,4 +31,4 @@ weight = 5
 
 Wambura Fobbs is a Postdoctoral Fellow at National Institute of Diabetes and Digestive and Kidney Diseases (NIDDK) who is very interested in the neural and psychological basis of motivated behaviors, including reward-based learning, decision making, timing, addiction, and feeding. 
 
-She is also very fond of science teaching, advocacy, and outreach and am committed to implementing evidence-based active learning practices in the classroom.
+She is also very fond of science teaching, advocacy, and outreach and is committed to implementing evidence-based active learning practices in the classroom.
